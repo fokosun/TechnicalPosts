@@ -1,1 +1,4 @@
-.idea
+**/.idea
+**/.DS_Store
+**/.vendor
+**/.vs_code
