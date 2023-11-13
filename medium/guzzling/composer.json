@@ -1,0 +1,20 @@
+{
+    "name": "fokosun/guzzling",
+    "description": "This is for learning purpose only",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Practice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fokosun",
+            "email": "okosunuzflorence@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
